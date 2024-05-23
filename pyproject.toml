@@ -7,6 +7,8 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
+numpy = "^1.26.4"
+dearpygui = "^1.11.1"
 
 
 [build-system]
